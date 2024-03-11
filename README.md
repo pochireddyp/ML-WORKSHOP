@@ -1,14 +1,14 @@
 # SA-1 ASSIGNMENT
-## Developed By : K MADHAVA REDDY
-## Register Number : 212223240064
+## Developed By : pochireddy.p
+## Register Number : 212223240115
 ## Dept : AIML
 ## Objective 1 :
 ### To Create a scatter plot between cylinder vs Co2Emission (green color)
 ## Code :
 ```python
 '''
-Developed by : K MADHAVA REDDY
-Register Number : 212223240064
+Developed by : pochireddy.p
+Register Number : 212223240115
 '''
 
 import pandas as pd
@@ -31,8 +31,8 @@ plt.show()
 ## Code :
 ```python
 '''
-Developed by : K MADHAVA REDDY
-Register Number : 212223240064
+Developed by :pochireddy.p
+Register Number : 212223240115
 '''
 
 import pandas as pd
@@ -57,8 +57,8 @@ plt.show()
 ## Code :
 ```python
 '''
-Developed by : K MADHAVA REDDY
-Register Number : 212223240064
+Developed by : pochireddy.p
+Register Number : 212223240115
 '''
 
 import pandas as pd
@@ -84,8 +84,8 @@ plt.show()
 ## Code :
 ```python
 '''
-Developed by : K MADHAVA REDDY
-Register Number : 212223240064
+Developed by : pochireddy.p
+Register Number : 212223240115
 '''
 
 import pandas as pd
@@ -112,8 +112,8 @@ model_cylinder.fit(X_train_cylinder, y_train_cylinder)
 ## Code :
 ```python
 '''
-Developed by : K MADHAVA REDDY
-Register Number : 212223240064
+Developed by : pochireddy.p
+Register Number : 212223240115
 '''
 
 import pandas as pd
@@ -139,8 +139,8 @@ model_fuel.fit(X_train_fuel, y_train_fuel)
 ## Code :
 ```python
 '''
-Developed by : K MADHAVA REDDY
-Register Number : 212223240064
+Developed by : pochireddy.p
+Register Number : 212223240115
 '''
 
 import pandas as pd
